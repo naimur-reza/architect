@@ -561,9 +561,13 @@ ul li a:hover{
     }
     .client-info{
         width: auto;
-        padding: 10px;
+        padding: 26px;
+        height: 225px;
     }
     .client-info > h1{
         font-size: 23px;
+    }
+    .client-info i{
+        font-size: 10px;
     }
 }
